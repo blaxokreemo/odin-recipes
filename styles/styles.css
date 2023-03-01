@@ -1,0 +1,26 @@
+h1 {
+    background-color: rgb(26, 23, 190);
+    color: rgb(214, 63, 219);
+    font-size: 42px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    color: rgb(33, 129, 20);
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    font-style: italic;
+    color: rgb(68, 67, 68);
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
